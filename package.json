@@ -25,11 +25,8 @@
     "test:lint": "node test/run.mjs --check lint",
     "test:crash": "node test/run.mjs --check crash"
   },
-<<<<<<< Updated upstream
   "type": "module",
-  "version": "1.1.12"
-}
-=======
+  "version": "1.1.12",
   "dependencies": {
     "@babel/generator": "7.29.7",
     "@babel/parser": "7.29.7",
@@ -38,4 +35,3 @@
   },
   "devDependencies": {}
 }
->>>>>>> Stashed changes
