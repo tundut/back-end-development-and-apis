@@ -1,0 +1,13 @@
+{
+  "name": "prime-checker",
+  "version": "1.0.0",
+  "description": "A module for checking whether a number is prime",
+  "keywords": ["prime", "number", "checker"],
+  "license": "ISC",
+  "author": "Tuan Duc",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
